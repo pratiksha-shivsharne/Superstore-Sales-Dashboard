@@ -109,6 +109,15 @@ This page shows:
 \* Consumer segment contributes the largest share of sales.
 
 
+## Dashboard Screenshots
+
+### Sales Overview Dashboard
+
+![Sales Dashboard](Superstore_Sales_Dashboard.png)
+
+### Product Analysis Dashboard
+
+![Product Dashboard](Product_Analysis_Dashboard.png)
 
 \## What I Learned
 
@@ -136,7 +145,7 @@ Through this project, I learned:
 
 
 
-Preet Shivsharne
+Pratiksha Shivsharne
 
 
 
