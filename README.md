@@ -7,7 +7,7 @@ This is a Power BI dashboard created using the Sample Superstore dataset. The da
 
 
 
-\## Dashboard Features
+## Dashboard Features
 
 
 
@@ -33,7 +33,7 @@ This is a Power BI dashboard created using the Sample Superstore dataset. The da
 
 
 
-\## Tools Used
+## Tools Used
 
 
 
@@ -45,7 +45,7 @@ This is a Power BI dashboard created using the Sample Superstore dataset. The da
 
 
 
-\## Dashboard Pages
+## Dashboard Pages
 
 
 
@@ -75,7 +75,7 @@ This page shows:
 
 
 
-\### Page 2: Product Analysis Dashboard
+### Page 2: Product Analysis Dashboard
 
 
 
@@ -93,7 +93,7 @@ This page shows:
 
 
 
-\## Key Insights
+## Key Insights
 
 
 
@@ -116,7 +116,7 @@ This page shows:
 
 ![Product Dashboard](Product_Analysis_Dashboard.png)
 
-\## What I Learned
+## What I Learned
 
 
 
@@ -138,7 +138,7 @@ Through this project, I learned:
 
 
 
-\## Author
+## Author
 
 
 
