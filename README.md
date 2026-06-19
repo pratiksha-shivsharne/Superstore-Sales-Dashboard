@@ -49,7 +49,7 @@ This is a Power BI dashboard created using the Sample Superstore dataset. The da
 
 
 
-\### Page 1: Sales Overview Dashboard
+Page 1: Sales Overview Dashboard
 
 
 
