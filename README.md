@@ -1,9 +1,6 @@
-\# Superstore Sales Dashboard
+# Superstore Sales Dashboard
 
-
-
-\## About the Project
-
+## About the Project
 
 
 This is a Power BI dashboard created using the Sample Superstore dataset. The dashboard helps to understand sales performance, profit, quantity sold, and order details through different charts and KPIs.
